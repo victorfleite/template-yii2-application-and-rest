@@ -6,7 +6,7 @@ This project is a template for development of web application and api/rest togue
 
 Create a new repository
 
-    1. $ git clone git@gitlab.inmet.gov.br:csc/template-yii-2.0.git
+    1. $ git clone https://github.com/victorfleite/template-yii2-application-and-rest.git
     2. $ mv template-yii-2.0 yourFolderName
 
 Install Composer. For [more](https://getcomposer.org/doc/).
