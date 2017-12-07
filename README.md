@@ -7,7 +7,7 @@ This project is a template for development of web application and api/rest togue
 Create a new repository
 
     1. $ git clone https://github.com/victorfleite/template-yii2-application-and-rest.git
-    2. $ mv template-yii2-application-and-rest.git yourFolderName
+    2. $ mv template-yii2-application-and-rest yourFolderName
 
 Install Composer. For [more](https://getcomposer.org/doc/).
 
